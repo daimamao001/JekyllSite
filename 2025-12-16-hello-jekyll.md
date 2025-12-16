@@ -8,7 +8,10 @@ title: Hello Jekyll
 这是我使用 Jekyll 写的第一篇博客文章。
 
 
-修改
+修改，保存，并发布到我的网站上！
+
+actions.
+
 
 
 ## Jekyll 的特点
