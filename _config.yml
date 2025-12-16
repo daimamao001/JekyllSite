@@ -1,0 +1,5 @@
+title: 我的 Jekyll 博客
+description: 这是一个使用 Jekyll 构建的示例网站
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
